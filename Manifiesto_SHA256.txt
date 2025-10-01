@@ -29,6 +29,7 @@ El hash puede validarse ejecutando en terminal:
 y comparando con el valor declarado.
 
 ==========================================================
- Emitido por: GDLexSportiva / Asesorías Pérez
+ Emitido por: GDLexSportiva / Asesorías CDMX-SJO
  Fecha de emisión: 30/09/2025
 ==========================================================
+
