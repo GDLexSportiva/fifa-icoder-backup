@@ -1,29 +1,39 @@
 
+==========================================================
+ MANIFIESTO DE INTEGRIDAD FORENSE – EXPEDIENTE FIFA–ICODER
+==========================================================
 
-<jnlp codebase="https://aissfa.ccss.sa.cr:443/ModuloFirmaDigital" spec="1.0+">
-    <information>
-        <title>CCSS Applet</title>
-        <vendor>CCSS</vendor>
-        <homepage href="https://aissfa.ccss.sa.cr:443/ModuloFirmaDigital"/>
-        <description>Firma Digital</description>
-        <description kind="short">CCSS Applet</description>
-    </information>
-    <update check="always"/>
-        <security>
-<all-permissions/>
-</security>
-    <resources>
-        <j2se version="1.7+"/>
-        <jar href="lib/CCSS_Applet.jar" main="true"/>
-    <jar href="lib/AbsoluteLayout.jar"/>
-<jar href="lib/eID_Applet_Shared.jar"/>
-<jar href="lib/DSSDocumentSignature.jar"/>
-<jar href="lib/CCSSAppletConn.jar"/>
-<jar href="lib/applet-common-2.0.2.jar"/>
-<jar href="lib/dss-common-2.0.2.jar"/>
-<jar href="lib/dss-itext-2.0.2.jar"/>
-<jar href="lib/dss-spi-2.0.2.jar"/>
-<jar href="lib/bctsp-jdk16-1.46.jar"/>
+Expediente: FIFA_ICODER_Backup_30Sep2025_v2
+Fecha de certificación: 30 de septiembre de 2025
+Algoritmo: SHA256
+
+Hash del paquete certificado (ZIP):
+6ec526de164b6534f1ded43bf7461725591d38a0d4e39d1c498eba2fa852d724
+
+Archivos incluidos:
+ - 0FIFA_ICODER_Expediente_Final.docx
+ - FIFA_ICODER_Expediente_Final.pdf
+ - FIFA–ICODER_Expediente_Certificado_Final.docx
+ - FIFA–ICODER_Expediente_Certificado_Final.md
+ - analisis recurso de amparo 105.docx
+ - resume caso FIFA-ICODER.docx
+ - resume caso FIFA-ICODER.pdf
+ - silueta.png
+
+Declaración:
+Este manifiesto acredita la integridad de los archivos listados y su pertenencia
+al expediente técnico-forense FIFA–ICODER, validado por el hash SHA256 arriba indicado.
+
+Verificación:
+El hash puede validarse ejecutando en terminal:
+    sha256sum FIFA_ICODER_Backup_30Sep2025_v2.zip
+y comparando con el valor declarado.
+
+==========================================================
+ Emitido por: GDLexSportiva / Asesorías Pérez
+ Fecha de emisión: 30/09/2025
+==========================================================
+
 <jar href="lib/bcprov-jdk16-1.46.jar"/>
 <jar href="lib/bcmail-jdk16-1.46.jar"/>
 <jar href="lib/commons-codec-1.6.jar"/>
@@ -39,4 +49,5 @@
   <param name="RealPath" value="https://aissfa.ccss.sa.cr:443/ModuloFirmaDigital/"/>
   <param name="Function" value="AUTH"/>
 </applet-desc>
+
 </jnlp>
