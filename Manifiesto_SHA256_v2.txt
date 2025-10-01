@@ -9,6 +9,7 @@ Algoritmo: SHA256
 Este manifiesto complementa la certificación original del 30/09/2025,
 manteniendo íntegra la versión principal (hash SHA256: 6ec526de164b6534f1ded43bf7461725591d38a0d4e39d1c498eba2fa852d724)
 y agregando documentación probatoria adicional bajo la rama "anexos-oct2025".
+
 Archivos adicionales incorporados:
  - Expediente-250001910639LA_ETAPA_59FLS.pdf
  - Expediente-250001910639LA-Completo_49FLS.pdf
