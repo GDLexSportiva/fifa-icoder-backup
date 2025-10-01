@@ -1,0 +1,29 @@
+==========================================================
+ MANIFIESTO DE INTEGRIDAD FORENSE – EXPEDIENTE FIFA–ICODER
+==========================================================
+
+Versión: 2 (Anexos octubre 2025)
+Fecha: 02 de octubre de 2025
+Algoritmo: SHA256
+
+Este manifiesto complementa la certificación original del 30/09/2025,
+manteniendo íntegra la versión principal (hash SHA256: 6ec526de164b6534f1ded43bf7461725591d38a0d4e39d1c498eba2fa852d724)
+y agregando documentación probatoria adicional bajo la rama "anexos-oct2025".
+
+Archivos adicionales:
+ - [nombre del primer archivo]
+ - [nombre del segundo archivo]
+ - [añade aquí todos los nuevos documentos subidos]
+
+Hash de integridad del nuevo paquete:
+[PENDIENTE – se calculará una vez subidos todos los anexos]
+
+==========================================================
+ Declaración:
+ La presente versión no modifica la integridad del expediente certificado
+ el 30/09/2025, sino que lo amplía mediante pruebas complementarias
+ en cumplimiento del principio de trazabilidad digital y custodia forense.
+
+ Emitido por: GDLexSportiva / Asesorías Pérez
+ Fecha de emisión: 02/10/2025
+==========================================================
