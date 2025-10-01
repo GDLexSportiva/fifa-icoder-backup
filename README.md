@@ -1,1 +1,1 @@
-carpetas, documentos legales oficiales con integridad originla
+carpetas, documentos legales oficiales con integridad original
