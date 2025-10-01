@@ -1,4 +1,3 @@
-
 ==========================================================
  MANIFIESTO DE INTEGRIDAD FORENSE – EXPEDIENTE FIFA–ICODER
 ==========================================================
@@ -33,21 +32,3 @@ y comparando con el valor declarado.
  Emitido por: GDLexSportiva / Asesorías Pérez
  Fecha de emisión: 30/09/2025
 ==========================================================
-
-<jar href="lib/bcprov-jdk16-1.46.jar"/>
-<jar href="lib/bcmail-jdk16-1.46.jar"/>
-<jar href="lib/commons-codec-1.6.jar"/>
-<jar href="lib/commons-logging-1.1.1.jar"/>
-<jar href="lib/commons-io-2.0.1.jar"/>
-<jar href="lib/xalan-2.7.1.jar"/>
-<jar href="lib/serializer-2.7.1.jar"/>
-<jar href="lib/xmlsec-1.5.0.jar"/>
-</resources>
-<applet-desc main-class="ccss.dss.applet.CCSSApplet" name="CCSSApplet" width="400" height="270">
-  <param name="TargetPage" value="login.do"/>
-  <param name="AppletService" value="AppletServiceServlet;jsessionid=fISLPrM1MOqKHJdwZCtYhV8l99wlzavDdwMC5MXUo_93IITXPVTD!-1986426084!1741797897013"/>
-  <param name="RealPath" value="https://aissfa.ccss.sa.cr:443/ModuloFirmaDigital/"/>
-  <param name="Function" value="AUTH"/>
-</applet-desc>
-
-</jnlp>
