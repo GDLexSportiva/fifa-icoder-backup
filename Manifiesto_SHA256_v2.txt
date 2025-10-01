@@ -29,3 +29,28 @@ Hash de integridad del nuevo paquete:
  Emitido por: GDLexSportiva / Asesorías Pérez
  Fecha de emisión: 02/10/2025
 ==========================================================
+========================================================
+ VERIFICACIÓN DE INTEGRIDAD – ANEXOS OCTUBRE 2025
+========================================================
+
+Paquete adicional: fifa-icoder-backup-Documentos-Fuente.zip  
+Fecha de certificación: 02 de octubre de 2025  
+Algoritmo: SHA256  
+
+Hash de integridad:
+50AB49088ED1F556659C3FC297FB5A35035EEA67EF9D27533815F2015AB37249
+
+Declaración:
+Este hash acredita la integridad y autenticidad de los anexos adicionales
+publicados en la rama “Documentos-Fuente” del repositorio oficial
+https://github.com/GDLexSportiva/fifa-icoder-backup
+
+La validación puede realizarse ejecutando:
+`Get-FileHash -Algorithm SHA256 "fifa-icoder-backup-Documentos-Fuente.zip"`
+
+y comparando con el valor aquí declarado.
+
+========================================================
+Emitido por: GDLexSportiva / Asesorías Pérez  
+Fecha de emisión: 02/10/2025  
+========================================================
