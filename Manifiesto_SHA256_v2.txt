@@ -18,7 +18,7 @@ Archivos adicionales incorporados:
  - REVISION.pdf
 
 Hash de integridad del nuevo paquete:
-[PENDIENTE – se calculará una vez subidos todos los anexos]
+50AB49088ED1F556659C3FC297FB5A35035EEA67EF9D27533815F2015AB37249
 
 ==========================================================
  Declaración:
